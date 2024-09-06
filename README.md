@@ -1,2 +1,2 @@
 # Codsoft
-I am completed my codsoft internship! Task (using python programming)
+I am completed my codsoft internship! Tasks (using python programming)
